@@ -2,6 +2,7 @@
   "name": "weather-app-frontend",
   "private": true,
   "type": "module",
+  "homepage": "https://anikets312.github.io/weather-frontend/",
   "scripts": {
     "build": "react-router build",
     "dev": "react-router dev",
